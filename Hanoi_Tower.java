@@ -16,7 +16,7 @@ public class Hanoi_Tower {
         }
         hanoiTower(n - 1, from_rodName, statRodName, to_rodName);
         System.out.println("Двигаем диск " + n + " из стержня" + from_rodName + " на стержень " + to_rodName);
-        hanoiTower(n, statRodName, to_rodName, from_rodName);
+        hanoiTower(n - 1, statRodName, to_rodName, from_rodName);
     }
 
     // Вызов метода перемещения дисков
