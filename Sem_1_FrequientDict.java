@@ -17,7 +17,7 @@ program { 1, 9, 9, 0, 2, 8, 0, 9 }
 
 import java.util.Arrays;
 
-public class FrequientDict {
+public class Sem_1_FrequientDict {
 
     public static void main(String[] args) {
         int[] array1 = new int[] { 1, 9, 9, 0, 2, 8, 0, 9 };

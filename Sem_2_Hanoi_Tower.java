@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Hanoi_Tower {
+public class Sem_2_Hanoi_Tower {
     /*
      * функция перемещения дисков башни, где n - число дисков, from_rodName -
      * стержень, с которого берем диск,
