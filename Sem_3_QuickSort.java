@@ -44,7 +44,7 @@ public class Sem_3_QuickSort {
             quickSort(array, i, high);
     }
     public static void main(String[] args) {
-        int[] x = { 10, 0, 5, 16, 8, -1, 5, 2, -3, 7, 8п };
+        int[] x = { 10, 0, 5, 16, 8, -1, 5, 2, -3, 7, 8 };
         System.out.println("Было");
         System.out.println(Arrays.toString(x));
 
